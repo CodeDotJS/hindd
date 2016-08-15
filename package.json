@@ -43,8 +43,8 @@
     "esnext": true
   },
   "bugs": {
-    "url": "https://github.com/codedotjs/hind/issues"
+    "url": "https://github.com/codedotjs/hindd/issues"
   },
-  "homepage": "https://github.com/codedotjs/hind#readme",
+  "homepage": "https://github.com/codedotjs/hindd#readme",
   "main": "cli.js"
 }
