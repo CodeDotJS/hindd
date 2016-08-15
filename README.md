@@ -5,7 +5,6 @@
 [![Build Status](https://travis-ci.org/CodeDotJS/hindd.svg?branch=master)](https://travis-ci.org/CodeDotJS/hindd)
 
 <p align="center">
-	<br>
 	<img src="media/hind.gif">
 	<br>
 </p>
