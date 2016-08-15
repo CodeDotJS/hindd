@@ -1,0 +1,50 @@
+{
+  "name": "hindd",
+  "version": "1.0.0",
+  "description": "Say 'Happy Independence Day' to India!",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedotjs/hind.git"
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
+  "bin": {
+    "hind": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli",
+    "cli-app",
+    "india",
+    "bharat",
+    "happy",
+    "freedom",
+    "independence",
+    "day",
+    "wish"
+  ],
+  "dependencies": {
+    "log-update": "^1.0.2",
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "ava": "^0.15.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "bugs": {
+    "url": "https://github.com/codedotjs/hind/issues"
+  },
+  "homepage": "https://github.com/codedotjs/hind#readme",
+  "main": "cli.js"
+}
